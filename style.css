@@ -1,0 +1,50 @@
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+    margin: 12px;
+    font-size: 12px;
+}
+
+a{
+    color: black;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 12px;
+    padding: 12px;
+    border: 12px;
+}
+
+h2{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    border: 5px;
+    margin: 5x;
+    padding: 5px;
+}
+
+.home{
+    font-size: 12px;
+            font-weight: bold;
+
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+}
+
+    h3{
+        font-weight: bold;
+        font-size: 28px;
+    }
+
+     h4{
+        font-weight: bold;
+        font-size: 28px;
+    }
